@@ -131,6 +131,7 @@ p {
   max-width: var(--max-width);
 }
 
+/* search title */
 .title {
   font-family: 'Dancing Script', cursive;
   font-size: 2rem;
